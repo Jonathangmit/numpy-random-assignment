@@ -1,5 +1,16 @@
 # numpy-random-assignment
 ###### Jonathan Harper
 
-###### I wanted to create a Jupyter notebook that I could use as a simple reference myself going forward and hopefully build upon as I learn more about the NumPy package beyond the NumPy.random package that forms the basis of this assignment. This is the main reason for my opening section of <em>"What is NumPy?"</em>. As my understanding of the package increases I will return to this section but initially it is there as an opening section to the assignment. Until the assinment is completed it will be commited to only in respect to a simple overview. Nonetheless the small intro is a usefull read (for me) before diving into the .random aspects in particular.
-###### Completed preliminary work on the first (integers) simple random data package. Also worked on viewing rng(random generation) and normal generation data and the effect of increased datapints on the distribution.
+###### I wanted to create a Jupyter notebook that I could use as a simple reference myself going forward and hopefully build upon as I learn more about the NumPy package beyond the NumPy.random package that forms the basis of this assignment. This is the main reason for my opening section of <em>"What is NumPy?"</em>. 
+### The numpy random assignment
+
+###### The assignemnt is split into 5 secitions
+
+###### 1. A basic Numpy package overview.
+###### 2. Explanation of the "simple random data" and "permutations" sections.
+###### 3. Explanation, visualisation and example uses of distributions packages.
+###### 4. Exploration of seeds
+###### 5. I have looked at using random functions to produce "random" horse race winners. 
+###### This is something that I will work on until the deadline and as such the work in there is subject to incompletenes, simply put I wanted to use some of what I have learn and apply it (I wanted to use the random function and the distributions functions outside of a direct investigation). Some prelimary work on this can be found in the betting notebook contained within numpy random assignment folder.
+
+
